@@ -1,6 +1,6 @@
 body{
-	font-family: monospace;
-	font-size: 13pt;
+	font-family: Cambria;
+	font-size: 14pt;
 }
  
 th{
@@ -13,11 +13,11 @@ img{
 }
  
 .kotak{
-	border: 1px solid green;
-	width: 60%;
+	border: 4px solid green;
+	width: 100%;
 	margin: 10px auto;
 	padding: 20px;
-	background-color:yellow;
+	background-color:green;
 }
  
 .judul{
